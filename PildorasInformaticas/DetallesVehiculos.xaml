@@ -1,0 +1,24 @@
+﻿<Window x:Name="WindowDetalles" x:Class="PildorasInformaticas.DetallesVehiculos"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PildorasInformaticas"
+        mc:Ignorable="d"
+        Title="DetallesVehiculos" Height="450" Width="800" Closing="WindowDetalles_Closing">
+    <Grid>
+        <Label Content="id:" HorizontalAlignment="Left" Margin="100,30,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.482,0.354"/>
+        <Label Content="marca:" HorizontalAlignment="Left" Margin="78,62,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.482,0.354"/>
+        <Label Content="modelo:" HorizontalAlignment="Left" Margin="70,96,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.482,0.354"/>
+        <Label Content="No. motor:" HorizontalAlignment="Left" Margin="56,127,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.482,0.354"/>
+        <Label Content="No. serie:" HorizontalAlignment="Left" Margin="64,158,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.482,0.354"/>
+        <Label Content="Placas:" HorizontalAlignment="Left" Margin="78,191,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.482,0.354"/>
+        <TextBlock Name="detalle_id" HorizontalAlignment="Left" Margin="134,35,0,0" TextWrapping="Wrap" Text="id" VerticalAlignment="Top"/>
+        <TextBlock Name="detalle_marca" HorizontalAlignment="Left" Margin="134,67,0,0" TextWrapping="Wrap" Text="marca" VerticalAlignment="Top"/>
+        <TextBlock Name="detalle_modelo" HorizontalAlignment="Left" Margin="134,101,0,0" TextWrapping="Wrap" Text="modelo" VerticalAlignment="Top"/>
+        <TextBlock Name="detalle_motor" HorizontalAlignment="Left" Margin="134,132,0,0" TextWrapping="Wrap" Text="motor" VerticalAlignment="Top"/>
+        <TextBlock Name="detalle_serie" HorizontalAlignment="Left" Margin="134,164,0,0" TextWrapping="Wrap" Text="serie" VerticalAlignment="Top"/>
+        <TextBlock Name="detalle_placas" HorizontalAlignment="Left" Margin="134,197,0,0" TextWrapping="Wrap" Text="placas" VerticalAlignment="Top"/>
+        <Image Name="detalle_imagen" HorizontalAlignment="Left" Height="170" Margin="332,35,0,0" VerticalAlignment="Top" Width="213"/>
+    </Grid>
+</Window>

@@ -1,0 +1,70 @@
+C:\Users\Support\Desktop\C#\PildorasInformaticas\PildorasInformaticas\bin\Debug\PildorasInformaticas.exe.config
+C:\Users\Support\Desktop\C#\PildorasInformaticas\PildorasInformaticas\bin\Debug\PildorasInformaticas.exe
+C:\Users\Support\Desktop\C#\PildorasInformaticas\PildorasInformaticas\bin\Debug\PildorasInformaticas.pdb
+C:\Users\Support\Desktop\C#\PildorasInformaticas\PildorasInformaticas\obj\Debug\PildorasInformaticas.csprojAssemblyReference.cache
+C:\Users\Support\Desktop\C#\PildorasInformaticas\PildorasInformaticas\obj\Debug\MainWindow.g.cs
+C:\Users\Support\Desktop\C#\PildorasInformaticas\PildorasInformaticas\obj\Debug\App.g.cs
+C:\Users\Support\Desktop\C#\PildorasInformaticas\PildorasInformaticas\obj\Debug\PildorasInformaticas_MarkupCompile.cache
+C:\Users\Support\Desktop\C#\PildorasInformaticas\PildorasInformaticas\obj\Debug\PildorasInformaticas_MarkupCompile.lref
+C:\Users\Support\Desktop\C#\PildorasInformaticas\PildorasInformaticas\obj\Debug\MainWindow.baml
+C:\Users\Support\Desktop\C#\PildorasInformaticas\PildorasInformaticas\obj\Debug\PildorasInformaticas.g.resources
+C:\Users\Support\Desktop\C#\PildorasInformaticas\PildorasInformaticas\obj\Debug\PildorasInformaticas.Properties.Resources.resources
+C:\Users\Support\Desktop\C#\PildorasInformaticas\PildorasInformaticas\obj\Debug\PildorasInformaticas.csproj.GenerateResource.cache
+C:\Users\Support\Desktop\C#\PildorasInformaticas\PildorasInformaticas\obj\Debug\PildorasInformaticas.csproj.CoreCompileInputs.cache
+C:\Users\Support\Desktop\C#\PildorasInformaticas\PildorasInformaticas\obj\Debug\PildorasInformaticas.exe
+C:\Users\Support\Desktop\C#\PildorasInformaticas\PildorasInformaticas\obj\Debug\PildorasInformaticas.pdb
+C:\Users\Support\Desktop\C#\PildorasInformaticas\RadioButton\PildorasInformaticas\bin\Debug\PildorasInformaticas.exe.config
+C:\Users\Support\Desktop\C#\PildorasInformaticas\RadioButton\PildorasInformaticas\bin\Debug\PildorasInformaticas.exe
+C:\Users\Support\Desktop\C#\PildorasInformaticas\RadioButton\PildorasInformaticas\bin\Debug\PildorasInformaticas.pdb
+C:\Users\Support\Desktop\C#\PildorasInformaticas\RadioButton\PildorasInformaticas\obj\Debug\PildorasInformaticas.csprojAssemblyReference.cache
+C:\Users\Support\Desktop\C#\PildorasInformaticas\RadioButton\PildorasInformaticas\obj\Debug\MainWindow.g.cs
+C:\Users\Support\Desktop\C#\PildorasInformaticas\RadioButton\PildorasInformaticas\obj\Debug\App.g.cs
+C:\Users\Support\Desktop\C#\PildorasInformaticas\RadioButton\PildorasInformaticas\obj\Debug\PildorasInformaticas_MarkupCompile.cache
+C:\Users\Support\Desktop\C#\PildorasInformaticas\RadioButton\PildorasInformaticas\obj\Debug\PildorasInformaticas_MarkupCompile.lref
+C:\Users\Support\Desktop\C#\PildorasInformaticas\RadioButton\PildorasInformaticas\obj\Debug\MainWindow.baml
+C:\Users\Support\Desktop\C#\PildorasInformaticas\RadioButton\PildorasInformaticas\obj\Debug\PildorasInformaticas.g.resources
+C:\Users\Support\Desktop\C#\PildorasInformaticas\RadioButton\PildorasInformaticas\obj\Debug\PildorasInformaticas.Properties.Resources.resources
+C:\Users\Support\Desktop\C#\PildorasInformaticas\RadioButton\PildorasInformaticas\obj\Debug\PildorasInformaticas.csproj.GenerateResource.cache
+C:\Users\Support\Desktop\C#\PildorasInformaticas\RadioButton\PildorasInformaticas\obj\Debug\PildorasInformaticas.csproj.CoreCompileInputs.cache
+C:\Users\Support\Desktop\C#\PildorasInformaticas\RadioButton\PildorasInformaticas\obj\Debug\PildorasInformaticas.exe
+C:\Users\Support\Desktop\C#\PildorasInformaticas\RadioButton\PildorasInformaticas\obj\Debug\PildorasInformaticas.pdb
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\PildorasInformaticas.exe.config
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\PildorasInformaticas.exe
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\PildorasInformaticas.pdb
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\obj\Debug\PildorasInformaticas.csprojAssemblyReference.cache
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\obj\Debug\MainWindow.g.cs
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\obj\Debug\App.g.cs
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\obj\Debug\PildorasInformaticas_MarkupCompile.cache
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\obj\Debug\PildorasInformaticas_MarkupCompile.lref
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\obj\Debug\MainWindow.baml
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\obj\Debug\PildorasInformaticas.g.resources
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\obj\Debug\PildorasInformaticas.Properties.Resources.resources
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\obj\Debug\PildorasInformaticas.csproj.GenerateResource.cache
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\obj\Debug\PildorasInformaticas.csproj.CoreCompileInputs.cache
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\obj\Debug\PildorasInformaticas.exe
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\obj\Debug\PildorasInformaticas.pdb
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\RestSharp.dll
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\System.Buffers.dll
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\System.Memory.dll
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\System.Text.Json.dll
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\System.ValueTuple.dll
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\RestSharp.xml
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\System.Buffers.xml
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\System.Memory.xml
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\System.Text.Json.xml
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\bin\Debug\System.ValueTuple.xml
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\obj\Debug\PildorasInformaticas.csproj.CopyComplete
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\obj\Debug\DetallesVehiculos.g.cs
+C:\Users\Support\Desktop\C#\PildorasInformaticas\CRUD Api\PildorasInformaticas\obj\Debug\DetallesVehiculos.baml
